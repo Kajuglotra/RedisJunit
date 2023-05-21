@@ -1,8 +1,0 @@
-org/gfg/junitmock/demo/model/Person$PersonBuilder.class
-org/gfg/junitmock/demo/model/Person.class
-org/gfg/junitmock/demo/Repository/PersonRepository.class
-org/gfg/junitmock/demo/service/PersonService.class
-org/gfg/junitmock/demo/Redis/RedisConfiguration.class
-org/gfg/junitmock/demo/service/PersonServiceInterface.class
-org/gfg/junitmock/demo/DemoApplication.class
-org/gfg/junitmock/demo/controller/PersonController.class
